@@ -1,5 +1,5 @@
 # Generation-and-detection-of-AM-using-SCILAB---T1---M4---ODD
-# AIM
+# AIM 
 
 To generate and detect the amplitude modulation and demodulation using SCILAB and to calculate modulation index of AM.
 
